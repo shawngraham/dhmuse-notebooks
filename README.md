@@ -1,3 +1,7 @@
+# Useful notebooks to get started
+
+For use in my hist4916a; some additions by me. Originally forked from:
+
 # Open Educational Resources for Text Analysis
 A set of notebooks for JSTOR's Text and Data Mining project
 
